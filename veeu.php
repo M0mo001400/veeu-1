@@ -1,5 +1,5 @@
 <?php
-// FB : Manggala Febri Valentino
+// FB : Mo Apiraktanon
 // Not For Sale 
 // THX TO SGB TEAM
 function veeu($code, $key, $task, $token, $jumlah, $wait){
